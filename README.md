@@ -1,7 +1,7 @@
 # Java-samples
 Some easy samples written on Java in order to provide the basics of my skills and knowledge at OOP.
 
-All the detail about the code and its functions are described and explained in the code source.
+All the details about the code and its functions are described and explained in the code source.
 
 Have a fun time testing and reviewing it!^^
 
